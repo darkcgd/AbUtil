@@ -29,4 +29,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     /*数据解析*/
     compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.zhy:okhttputils:2.6.2'
 }
